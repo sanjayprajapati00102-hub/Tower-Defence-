@@ -1,0 +1,6 @@
+{
+  "name": "Kingdom Guardians: Ultimate Defense",
+  "description": "An advanced, polished 3D fantasy strategy Tower Defense game featuring 8 unique towers with branching upgrades, 8 enemy types, elemental affinities, tactical synergies, active spells, and multiple 3D battlefields.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
